@@ -41,3 +41,4 @@ The hackathon Tripo API key is **already hardcoded** inside `tripo-handler.mjs`.
 - `references/` — Tripo API reference and integration checklist
 - `templates/backend/` — Express, Next.js (App + Pages), Hono route templates plus a standalone Express server
 - `templates/frontend/` — React, Vue 3, and vanilla TS clients + three.js viewer
+# hackathon
